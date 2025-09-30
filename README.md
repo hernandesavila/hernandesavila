@@ -40,15 +40,15 @@ Foco em **qualidade, arquitetura limpa (Clean Architecture/SOLID)** e geração 
 
 ## 🧠 Competências principais
 - **Desenvolvimento Desktop:** C#, VB.NET, Java, VB6  
-- **Back-end:** .NET/ASP.NET Core, C#, PHP (CodeIgniter)
+- **Back-end:** .NET/ASP.NET Core (Entity Framework, Dapper, Identity), C#, PHP (CodeIgniter)
 - **Front-end:** Angular, HTML5, CSS3, Bootstrap, JavaScript, jQuery 
-- **APIs REST:** autenticação JWT, **CI/CD** com GitHub Actions  
+- **APIs REST:** Autenticação JWT, **CI/CD** com GitHub Actions  
 - **Bancos de Dados:** SQL Server, PostgreSQL, MySQL (modelagem e performance)   
 - **Mobile:** Android nativo, Windows CE  
 - **DevOps/Cloud:** Docker, AWS, Azure  
 - **Observabilidade:** Grafana, Kibana, Elastic APM  
 - **Mensageria:** RabbitMQ, microsserviços  
-- **IoT:** Integrações com ESP32, sensores e automação  
+- **IoT:** Integrações com ESP32, sensores e automação (MQTT)
 
 ---
 
@@ -61,6 +61,7 @@ Foco em **qualidade, arquitetura limpa (Clean Architecture/SOLID)** e geração 
 | **PryInspec** | Sistema de inspeção remota de cabos | C# \| .NET Core \| HTML5 \| CSS3 \| Javascript \| Vue.js \| SQL Server \| AWS S3 \| Amazon Chime | Prysmian Group |
 | **Análise Visual de Cabos** | Sistema de análise visual de regularidade de cabos automotivos | C# \| .NET Core \| HTML5 \| CSS3 \| Javascript \| Vue.js \| SQL Server \| Python | Prysmian Group |
 | **Covid19 Tracker** | Sistema de gerenciamento de casos de Covid19 | C# \| .NET Framework \| Web Forms \| HTML5 \| CSS3 \| Bootstrap \| Javascript \| Jquery \| SQL Server | Prysmian Group |
+| **SAS** | Sistema de atendimento do Sebrae | C# \| .NET Framework \| Web Forms \| HTML5 \| CSS3 \| Bootstrap \| Javascript \| Jquery \| SQL Server | Sebrae |
 
 ---
 
