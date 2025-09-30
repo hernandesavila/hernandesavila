@@ -55,7 +55,7 @@ Foco em **qualidade, arquitetura limpa (Clean Architecture/SOLID)** e geração 
 ## 🚀 Projetos em Destaque
 | 💼 Projeto | 📝 Descrição | 🛠️ Tecnologias | 🏢 Empresa |
 |-----------|--------------|----------------|------------|
-| **Sites** | Sites Radio Difusora AM, Jovem Pan e TV Plan | HTML \| CSS \| Bootstrap \| Javascript \| Jquery \| PHP \| MySQL | Grupo Cioffii de Comunicação |
+| **Sites** | Sites Radio Difusora AM, Jovem Pan FM e TV Plan (Poços de Caldas - MG) | HTML \| CSS \| Bootstrap \| Javascript \| Jquery \| PHP \| MySQL | Grupo Cioffii de Comunicação |
 | **Planejamento de Dealers** | Automação em Excel VBA (redução de 32h para 8min) | Excel VBA | Alcoa Alumínio S/A |
 | **Sistema MES** | Sistema de Execução de Manufatura | VB.NET \| Light Switch \| Bartender \| SQL Server \| VBA Excel \| Windows CE | Prysmian Group |
 | **PryInspec** | Sistema de inspeção remota de cabos | C# \| .NET Core \| HTML5 \| CSS3 \| Javascript \| Vue.js \| SQL Server \| AWS S3 \| Amazon Chime | Prysmian Group |
