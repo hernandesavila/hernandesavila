@@ -45,7 +45,7 @@ Foco em **qualidade, arquitetura limpa (Clean Architecture/SOLID)** e geração 
 - **APIs REST:** Autenticação JWT, **CI/CD** com GitHub Actions  
 - **Bancos de Dados:** SQL Server, PostgreSQL, MySQL (modelagem e performance)   
 - **Mobile:** Android nativo, Windows CE  
-- **DevOps/Cloud:** Docker, AWS, Azure  
+- **DevOps/Cloud:** Docker, AWS  
 - **Observabilidade:** Grafana, Kibana, Elastic APM  
 - **Mensageria:** RabbitMQ, microsserviços  
 - **IoT:** Integrações com ESP32, sensores e automação (MQTT)
