@@ -40,10 +40,10 @@ Foco em **qualidade, arquitetura limpa (Clean Architecture/SOLID)** e geração 
 
 ## 🧠 Competências principais
 - **Desenvolvimento Desktop:** C#, VB.NET, Java, VB6  
-- **Back-end:** .NET/ASP.NET Core, C#, PHP (CodeIgniter)  
+- **Back-end:** .NET/ASP.NET Core, C#, PHP (CodeIgniter)
+- **Front-end:** Angular, HTML5, CSS3, Bootstrap, JavaScript, jQuery 
 - **APIs REST:** autenticação JWT, **CI/CD** com GitHub Actions  
-- **Bancos de Dados:** SQL Server, PostgreSQL, MySQL (modelagem e performance)  
-- **Front-end:** Angular, HTML5, CSS3, Bootstrap, JavaScript, jQuery  
+- **Bancos de Dados:** SQL Server, PostgreSQL, MySQL (modelagem e performance)   
 - **Mobile:** Android nativo, Windows CE  
 - **DevOps/Cloud:** Docker, AWS, Azure  
 - **Observabilidade:** Grafana, Kibana, Elastic APM  
