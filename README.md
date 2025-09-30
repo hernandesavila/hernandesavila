@@ -67,7 +67,6 @@ Foco em **qualidade, arquitetura limpa (Clean Architecture/SOLID)** e geração 
 
 ## 📫 Contato
 - 🔗 LinkedIn: [linkedin.com/in/hernandes-oliveira](https://www.linkedin.com/in/hernandes-oliveira)  
-- 💻 GitHub: [github.com/hernandesavila](https://github.com/hernandesavila)  
 - 📧 Email: [hernandesavila@hotmail.com](mailto:hernandesavila@hotmail.com)  
 
 ---
